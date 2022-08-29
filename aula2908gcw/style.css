@@ -1,0 +1,24 @@
+*{
+    background: #353535;
+}
+
+header{
+  background-color: rgb(255, 255, 255);
+  font-size: 90px;
+  margin: -10px;
+  margin-top: -30px;
+}
+footer{
+    background-color: blanchedalmond;
+}
+
+.wrapper > div{
+    position:relative;
+    padding:4px;
+    opacity: 1;
+    border: 2px solid rgb(251,86,48);   
+    background-color:rgb(251,86,48);
+        flex: 1;
+        margin: -10px;
+}
+  
